@@ -1,5 +1,9 @@
 # Moodmap
-Interactive AI platform mapping and visualizing moods from social media and environmental data. Final project for the Building AI course.
+An interactive AI project that maps and visualizes moods, emotions, and feelings in creative ways. Final project for the Building AI course.
+
+## Summary
+Moodmap is an AI-powered tool that tracks public moods and emotions using social media and environmental data. It visualizes patterns interactively, helping understand collective feelings in communities.
+
 ![Moodmap Example](https://via.placeholder.com/400x200.png?text=Moodmap+Visualization)
 
 ## Data sources and AI methods
@@ -28,5 +32,5 @@ Future improvements could include:
 
 ## Acknowledgments
 * Inspiration from public sentiment mapping projects and mental health AI initiatives.
-* Open-source libraries used: [NLTK](https://www.nltk.org), [TextBlob](https://textblob.readthedocs.io), [Plotly](https://plotly.com), [Folium](https://python-visualization.github.io/folium)
-* Placeholder image by [Placeholder.com](https://via.placeholder.com)
+* Open-source libraries used: [NLTK](https://www.nltk.org/), [TextBlob](https://textblob.readthedocs.io/), [Plotly](https://plotly.com/), [Folium](https://python-visualization.github.io/folium/)
+* Placeholder image by [Placeholder.com](https://via.placeholder.com/)
